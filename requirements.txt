@@ -1,0 +1,11 @@
+moviepy==1.0.3
+Pillow
+arabic-reshaper
+python-bidi
+edge-tts
+pydub
+requests
+streamlit
+numpy
+google.generativeai
+python-dotenv
